@@ -1,0 +1,5 @@
+# IDEA
+.idea/
+
+# Apple file system 
+.DS_Store
